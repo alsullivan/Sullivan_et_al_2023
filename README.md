@@ -10,5 +10,6 @@ I wanted to share our data and script as open-access for multiple reasons.
   3. If anyone has any questions about our data or code while reading the paper, they can view it here themselves.
 
 It is likely that no updates to this script or data will be made in the future, as the paper was published on September 6, 2023 and I am no longer working on this project. 
+All statistical analyses were done in R (version 4.1.2, R Core Team 2022).
 
 Alexis A. Sullivan is responsible for updating and maintaining this repository. Any questions can be directed here in GitHub. For other questions regarding the paper, they can be directed to the corresponding author listed in the article. 
